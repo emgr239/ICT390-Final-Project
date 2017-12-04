@@ -3,6 +3,12 @@ header{
   text-align: center;
   min-width: 350px;
 }
+
+#logo{
+  position: absolute;
+  margin-left: 1000px;
+}
+
 body{
   min-width: 350px;
   background-color:#9fcfcf;
@@ -24,4 +30,8 @@ a:link{
     color:#800080;
   }
 a:visited{  color:#800080;
+}
+
+article {
+  padding:20px;
 }
